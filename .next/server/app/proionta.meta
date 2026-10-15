@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/proionta/layout,_N_T_/proionta/page,_N_T_/proionta"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/proionta/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/76835a6ad03315cd512317913d77235a02e69851be50176bf60637eeb0b57511/$/proionta",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/proionta/page"
+    },
+    "isFallback": false
+  }
+}

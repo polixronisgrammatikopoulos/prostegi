@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/kalathi/layout,_N_T_/kalathi/page,_N_T_/kalathi"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/kalathi/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/82f6dd707c8ac0318a4da98becc66a7ad6c845f760a04c00638dc86576736f76/$/kalathi",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/kalathi/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/oloklirosi-paraggelias/layout,_N_T_/oloklirosi-paraggelias/page,_N_T_/oloklirosi-paraggelias"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/oloklirosi-paraggelias/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/f783364cc90a1b90254ba91f73a93260f9821bc9b95b3049a272f4856391c6ef/$/oloklirosi-paraggelias",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/oloklirosi-paraggelias/page"
+    },
+    "isFallback": false
+  }
+}

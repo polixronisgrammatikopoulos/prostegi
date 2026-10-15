@@ -1,0 +1,164 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0cz1d0mv5g_q7.js"
+  ],
+  "lowPriorityFiles": [
+    "static/yUMjxVet43fwW9HnKeiPn/_buildManifest.js",
+    "static/yUMjxVet43fwW9HnKeiPn/_ssgManifest.js",
+    "static/yUMjxVet43fwW9HnKeiPn/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/1semoycqaw4nt.js",
+    "static/chunks/1fnxbr6d6d0js.js",
+    "static/chunks/0g_35zsltf3on.js",
+    "static/chunks/turbopack-3-ry682tkyiqk.js"
+  ],
+  "rootMainFilesTree": {},
+  "pagesChunkGroupBootstrapParams": {
+    "/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/_not-found/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/_global-error/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/epikoinonia/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/etaireia/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/faq/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/fotovoltaika/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/kalathi/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/oloklirosi-paraggelias/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/paketa/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/proionta/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/proionta/[slug]/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/ypiresies/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/ypologistis/page": {
+      "otherChunks": [
+        "static/chunks/1semoycqaw4nt.js",
+        "static/chunks/1fnxbr6d6d0js.js",
+        "static/chunks/0g_35zsltf3on.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    }
+  },
+  "chunkLoadingGlobal": "TURBOPACK"
+}

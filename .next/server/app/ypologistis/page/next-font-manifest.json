@@ -1,0 +1,13 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/ypologistis/page": [
+      "static/media/58c4895d0a0ef7cc-s.p.2vhvl9vrvk-va.woff2",
+      "static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2",
+      "static/media/5476f68d60460930-s.p.2uwcyprjm3xu3.woff2",
+      "static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

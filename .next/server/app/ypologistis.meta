@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/ypologistis/layout,_N_T_/ypologistis/page,_N_T_/ypologistis"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/ypologistis/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/bbbdaa7a2c659bacb967f712cbf2dc3b7b5fd72bd5e3886896287760328a0e6c/$/ypologistis",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/ypologistis/page"
+    },
+    "isFallback": false
+  }
+}

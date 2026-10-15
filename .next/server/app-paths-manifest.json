@@ -1,0 +1,21 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/api/order/route": "app/api/order/route.js",
+  "/api/route": "app/api/route.js",
+  "/epikoinonia/page": "app/epikoinonia/page.js",
+  "/etaireia/page": "app/etaireia/page.js",
+  "/faq/page": "app/faq/page.js",
+  "/fotovoltaika/page": "app/fotovoltaika/page.js",
+  "/kalathi/page": "app/kalathi/page.js",
+  "/oloklirosi-paraggelias/page": "app/oloklirosi-paraggelias/page.js",
+  "/page": "app/page.js",
+  "/paketa/page": "app/paketa/page.js",
+  "/proionta/[slug]/page": "app/proionta/[slug]/page.js",
+  "/proionta/page": "app/proionta/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/ypiresies/page": "app/ypiresies/page.js",
+  "/ypologistis/page": "app/ypologistis/page.js"
+}

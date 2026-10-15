@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/paketa/layout,_N_T_/paketa/page,_N_T_/paketa"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/paketa/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/f0cad3e6a5ec467484ab86d353bd05e910cca533da96d3652b1f03fad70ea7d6/$/paketa",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/paketa/page"
+    },
+    "isFallback": false
+  }
+}

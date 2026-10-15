@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/etaireia/layout,_N_T_/etaireia/page,_N_T_/etaireia"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/etaireia/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/ac197adc8aba2b79bb56ad6d07094c14d614ddc3179a40ed0afb5298a30895bb/$/etaireia",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/etaireia/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/epikoinonia/layout,_N_T_/epikoinonia/page,_N_T_/epikoinonia"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/epikoinonia/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/ebd91533bf10d6452f89e918899cdeba1736b1773d18b4a91a36642814d9d834/$/epikoinonia",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/epikoinonia/page"
+    },
+    "isFallback": false
+  }
+}

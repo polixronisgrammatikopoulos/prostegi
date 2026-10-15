@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0lx-uxrlgd0-c.js"
+4:"/_next/static/chunks/3eglp_u81ow78.js"
+5:"/_next/static/chunks/33aty3whaex-m.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:I[97367,["$3","$4","$5"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4","$5"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4","$5"],"$12"]
+14:I[27201,["$3","$4","$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$a"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0d4c74"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ProΣτέγη | Φωτοβολταϊκά Συστήματα Θεσσαλονίκης — Αυτόνομα, Net Billing & Υβριδικά"}],["$","meta","1",{"name":"description","content":"Η ProΣτέγη σχεδιάζει και εγκαθιστά αυτόνομα, διασυνδεδεμένα (Net Billing) και υβριδικά φωτοβολταϊκά συστήματα με εξοπλισμό Deye & V-TAC στη Θεσσαλονίκη και σε όλη τη Βόρεια Ελλάδα. Δωρεάν μελέτη, πιστοποιημένος εξοπλισμός, διά βίου υποστήριξη."}],["$","meta","2",{"name":"author","content":"ProΣτέγη"}],["$","meta","3",{"name":"keywords","content":"φωτοβολταϊκά,φωτοβολταϊκά συστήματα,φωτοβολταϊκά Θεσσαλονίκη,αυτόνομα φωτοβολταϊκά,διασυνδεδεμένα φωτοβολταϊκά,net billing,net metering,υβριδικά φωτοβολταϊκά,μπαταρίες λιθίου,φωτοβολταϊκά πάνελ,inverter Deye,V-TAC,ενεργειακή αυτονομία,εξοικονόμηση ενέργειας,ηλιακή ενέργεια,εγκατάσταση φωτοβολταϊκών,φωτοβολταϊκά Βόρεια Ελλάδα,δωρεάν μελέτη φωτοβολταϊκού"}],["$","meta","4",{"name":"creator","content":"ProΣτέγη"}],["$","meta","5",{"name":"publisher","content":"ProΣτέγη"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"geo.region","content":"GR-B"}],["$","meta","9",{"name":"geo.placename","content":"Θεσσαλονίκη"}],["$","meta","10",{"name":"geo.position","content":"40.6725;22.9305"}],["$","meta","11",{"name":"ICBM","content":"40.6725, 22.9305"}],["$","link","12",{"rel":"canonical","href":"https://www.prostegi.gr"}],["$","meta","13",{"property":"og:title","content":"ProΣτέγη | Ηλιακή Ενέργεια, Ανεξάρτητη Ζωή"}],["$","meta","14",{"property":"og:description","content":"Αυτόνομα & διασυνδεδεμένα φωτοβολταϊκά συστήματα με Deye & V-TAC εξοπλισμό. Ζήστε με αυτονομία και εξοικονόμηση."}],["$","meta","15",{"property":"og:url","content":"https://www.prostegi.gr"}],["$","meta","16",{"property":"og:site_name","content":"ProΣτέγη"}],["$","meta","17",{"property":"og:locale","content":"el_GR"}],["$","meta","18",{"property":"og:image","content":"https://www.prostegi.gr/hero-solar.jpg"}],["$","meta","19",{"property":"og:image:width","content":"1466"}],["$","meta","20",{"property":"og:image:height","content":"574"}],["$","meta","21",{"property":"og:type","content":"website"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"ProΣτέγη | Φωτοβολταϊκά Θεσσαλονίκης"}],["$","meta","24",{"name":"twitter:description","content":"Αυτόνομα, Net Billing & Υβριδικά φωτοβολταϊκά συστήματα στη Θεσσαλονίκη. Δωρεάν μελέτη & προσφορά."}],["$","meta","25",{"name":"twitter:image","content":"https://www.prostegi.gr/hero-solar.jpg"}],["$","link","26",{"rel":"icon","href":"/logo-square.png"}],["$","link","27",{"rel":"apple-touch-icon","href":"/logo-square.png"}],["$","$L14","28",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$a"}},"a":"$@16","u":"$@17","b":"yUMjxVet43fwW9HnKeiPn"}
+e:null
+17:true
+a:300
+a:C
+16:0
+8:"$undefined"
+15:"$undefined"
+f:"$undefined"

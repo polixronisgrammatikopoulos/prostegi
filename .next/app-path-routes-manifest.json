@@ -1,0 +1,21 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/contact/route": "/api/contact",
+  "/api/order/route": "/api/order",
+  "/api/route": "/api",
+  "/epikoinonia/page": "/epikoinonia",
+  "/etaireia/page": "/etaireia",
+  "/faq/page": "/faq",
+  "/fotovoltaika/page": "/fotovoltaika",
+  "/kalathi/page": "/kalathi",
+  "/oloklirosi-paraggelias/page": "/oloklirosi-paraggelias",
+  "/page": "/",
+  "/paketa/page": "/paketa",
+  "/proionta/[slug]/page": "/proionta/[slug]",
+  "/proionta/page": "/proionta",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/ypiresies/page": "/ypiresies",
+  "/ypologistis/page": "/ypologistis"
+}
