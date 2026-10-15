@@ -1,0 +1,37 @@
+// ProStegi website database schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// Leads submitted through the contact form on the website
+model ContactLead {
+  id         String   @id @default(cuid())
+  name       String
+  phone      String
+  email      String?
+  systemType String?
+  message    String?
+  createdAt  DateTime @default(now())
+}
+
+// Παραγγελίες από το e-shop (τηλεφωνική επιβεβαίωση — χωρίς online πληρωμή)
+model OrderRequest {
+  id          String   @id @default(cuid())
+  name        String
+  phone       String
+  email       String?
+  city        String?
+  contactTime String?
+  items       String   // JSON: [{ slug, name, qty, price }]
+  total       Float
+  savings     Float    @default(0)
+  notes       String?
+  status      String   @default("new")
+  createdAt   DateTime @default(now())
+}
